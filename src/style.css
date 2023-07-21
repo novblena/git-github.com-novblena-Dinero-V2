@@ -43,7 +43,7 @@ html{
     color:green;
     margin-right: 20px;
     cursor: pointer;
-    opacity: 1;
+    opacity: .95;
 }
 div a > p {
     font-size: 1.4rem;
