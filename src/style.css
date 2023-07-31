@@ -38,11 +38,12 @@ html{
         height: 260px;
     }
     .form-floating input{
-        font-size: 1.4rem;
-
+        font-size: small;
+        font-weight: 400;
     }
     .form-floating label{
-        font-size: 1.2rem;
+        font-size: 18px;
+       
     }
     #skills li button{
         font-size: 16px;
